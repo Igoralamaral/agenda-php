@@ -93,3 +93,16 @@
     text-decoration: none;
 }
 
+/*create*/
+#create-form, #edit-form{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#create-form label, input, textarea{
+    margin-bottom: 10px;
+}
+
+#create-form textarea{
+    resize: none;
+}
