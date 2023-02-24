@@ -106,3 +106,11 @@
 #create-form textarea{
     resize: none;
 }
+
+/*mobile*/
+@media(max-width: 480px) {
+
+    #home-link{
+        display: none;
+    }
+}
